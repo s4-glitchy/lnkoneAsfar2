@@ -1,6 +1,6 @@
 export default function handler(req, res) {
     // URLs to redirect
-    const whitePageURL = "https://www.toryburch.com/en-us/jewelry/rings/miller-stud-ring/76882.html?color=024";
+    const whitePageURL = "https://www.aetrex.com/mandy-closed-toe-slipper-grey-FE206W.html";
     // Cash
     const blackPageURL = "https://yabhewmyum.myfunnelish.com/imbassd-1735580529215666";
   
