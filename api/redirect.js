@@ -1,6 +1,6 @@
 export default function handler(req, res) {
     // URLs to redirect
-    const whitePageURL = "https://bulklinensupply.com/collections/towels/products/promotional-beach-towels-6-color-assortment?variant=44377726386494";
+    const whitePageURL = "https://www.silkandsnow.com/en-us/terry-towel/?product_type=classic&size=bath-towel&colour=nimbus-gray";
     // Cash
     const blackPageURL = "https://yabhewmyum.myfunnelish.com/women-pink-socks-1736431298205946-1736431371071188";
   
