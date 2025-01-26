@@ -1,6 +1,6 @@
 export default function handler(req, res) {
     // URLs to redirect
-    const whitePageURL = "https://www.jokeshop.co.uk/det/3740/Lennon-Glasses-Orange/";
+    const whitePageURL = "https://www.sweaterchalet.com/dachstein-woolwear/dw-7110-adult-hat-orange/?srsltid=AfmBOoo32G76aMsDijulJVeNri8TCry3cx79NrrmXAQPiSgoTk2TMlHy";
     // Cash
     const blackPageURL = "https://YAbHewMyUM.myfunnelish.com/tiktok-1231sdf";
   
